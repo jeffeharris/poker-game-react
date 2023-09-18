@@ -1,0 +1,20 @@
+.deck-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.deck-card {
+  width: 70px;
+  height: 100px;
+  margin: 5px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-back {
+  background-image: url('../assets/card-back.png');
+  background-size: cover;
+}

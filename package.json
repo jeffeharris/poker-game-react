@@ -1,0 +1,27 @@
+{
+  "name": "single-player-poker",
+  "version": "1.0.0",
+  "description": "A single player poker game with a react front end.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/single-player-poker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/single-player-poker/issues"
+  },
+  "homepage": "https://github.com/yourusername/single-player-poker#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  }
+}
