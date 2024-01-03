@@ -1,0 +1,28 @@
+.player-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.player-name {
+  font-size: 1.5em;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.player-hand {
+  display: flex;
+  justify-content: center;
+}
+
+.card-in-hand {
+  margin: 0 5px;
+}
+
+.player-score {
+  font-size: 1.2em;
+  color: #333;
+  margin-top: 10px;
+}
